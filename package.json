@@ -1,0 +1,14 @@
+{
+  "name": "example_si_pass",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "y": "^0.3.2"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
